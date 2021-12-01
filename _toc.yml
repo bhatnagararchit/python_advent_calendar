@@ -1,0 +1,11 @@
+format: jb-book
+root: intro
+parts:
+        - caption: Week One
+          chapters:
+                  - file: Week1/intro
+                  - file: Week1/Day1
+                  - file: Week1/Day2
+                  - file: Week1/Day3
+                  - file: Week1/Day4
+                  - file: Week1/Day5
