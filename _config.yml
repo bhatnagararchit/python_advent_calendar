@@ -1,0 +1,8 @@
+#Book settings
+title: Python Advent Calendar
+author: Archit Bhatnagar, Jan Geisler
+copyright: "2021"
+
+#Execution settings
+execute:
+        execute_notebooks: "off"
