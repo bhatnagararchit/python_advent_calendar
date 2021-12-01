@@ -131,3 +131,7 @@ dmypy.json
 # Vim editing
 *.un~
 *.swp
+.gitignore~
+
+# Jupyter Book building
+_build/
